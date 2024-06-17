@@ -1,5 +1,8 @@
-Sekelaton repo for basic app setup in kotlin, 
-Contains 
+Kotlin Basic App Setup
+
+
+Skeleton repo for basic app setup in kotlin, 
+Contains Following :  
 1. Room
 2. Retrofit API
 3. LiveData
